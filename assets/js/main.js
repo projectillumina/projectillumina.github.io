@@ -88,7 +88,7 @@
 			$('.scrolly').scrolly();
 
 		// Poptrox.
-			$window.on('load', function() {
+/*			$window.on('load', function() {
 
 				var $thumbs = $('.thumbnails');
 
@@ -106,7 +106,7 @@
 						windowMargin: (skel.breakpoint('small').active ? 5 : 50)
 					});
 
-			});
+			}); */
 
 		// Initial scroll.
 			$window.on('load', function() {
